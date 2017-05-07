@@ -7,7 +7,7 @@
     "test": "echo \"no test specified\" && exit 0"
   },
   "dependencies": {
-    "transit-immutable-js": "git@github.com:agentilela/transit-immutable-js.git",
+    "transit-immutable-js": "git://github.com:agentilela/transit-immutable-js",
     "transit-js": "^0.8.846"
   },
   "peerDependencies": {
